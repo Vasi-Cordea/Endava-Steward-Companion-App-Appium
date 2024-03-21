@@ -1,0 +1,47 @@
+[Android_Pixel 3 INFO ] 2023-11-13 13:25:06.874 ServerManager:20 - starting appium server
+[Android_Pixel 3 INFO ] 2023-11-13 13:25:11.777 ServerManager:29 - Appium server started
+[Android_Pixel 3 INFO ] 2023-11-13 13:25:11.788 DriverManager:28 - initializing Appium driver
+[Android_Pixel 3 INFO ] 2023-11-13 13:25:11.799 PropertyManager:17 - loading config properties
+[Android_Pixel 3 INFO ] 2023-11-13 13:25:11.800 CapabilitiesManager:18 - getting capabilities
+[Android_Pixel 3 INFO ] 2023-11-13 13:25:11.806 CapabilitiesManager:34 - appUrl isC:\Users\vcordea\Steward Project\steward-testing\src\test\resources\apps\app-debug.apk
+[Android_Pixel 3 INFO ] 2023-11-13 13:25:24.996 DriverManager:40 - Driver is initialized
+[Android_Pixel 3 INFO ] 2023-11-13 13:25:28.333 ServerManager:20 - starting appium server
+[Android_Pixel 3 INFO ] 2023-11-13 13:25:32.946 ServerManager:29 - Appium server started
+[Android_Pixel 3 INFO ] 2023-11-13 13:25:32.947 DriverManager:28 - initializing Appium driver
+[Android_Pixel 3 INFO ] 2023-11-13 13:25:32.947 CapabilitiesManager:18 - getting capabilities
+[Android_Pixel 3 INFO ] 2023-11-13 13:25:32.947 CapabilitiesManager:34 - appUrl isC:\Users\vcordea\Steward Project\steward-testing\src\test\resources\apps\app-debug.apk
+[Android_Pixel 3 INFO ] 2023-11-13 13:25:39.301 DriverManager:40 - Driver is initialized
+[Android_Pixel 3 INFO ] 2023-11-13 13:25:48.947 BasePage:79 - login with test.test@email.com
+[Android_Pixel 3 INFO ] 2023-11-13 13:25:49.125 BasePage:79 - login with Password0#
+[Android_Pixel 3 INFO ] 2023-11-13 13:25:50.011 ServerManager:20 - starting appium server
+[Android_Pixel 3 INFO ] 2023-11-13 13:25:55.164 ServerManager:29 - Appium server started
+[Android_Pixel 3 INFO ] 2023-11-13 13:25:55.165 DriverManager:28 - initializing Appium driver
+[Android_Pixel 3 INFO ] 2023-11-13 13:25:55.165 CapabilitiesManager:18 - getting capabilities
+[Android_Pixel 3 INFO ] 2023-11-13 13:25:55.166 CapabilitiesManager:34 - appUrl isC:\Users\vcordea\Steward Project\steward-testing\src\test\resources\apps\app-debug.apk
+[Android_Pixel 3 INFO ] 2023-11-13 13:26:01.584 DriverManager:40 - Driver is initialized
+[Android_Pixel 3 INFO ] 2023-11-13 13:26:04.687 BasePage:79 - login with test.test@email.com
+[Android_Pixel 3 INFO ] 2023-11-13 13:26:04.893 BasePage:79 - login with Password0#
+[Android_Pixel 3 INFO ] 2023-11-13 13:26:28.187 ServerManager:20 - starting appium server
+[Android_Pixel 3 INFO ] 2023-11-13 13:26:33.046 ServerManager:29 - Appium server started
+[Android_Pixel 3 INFO ] 2023-11-13 13:26:33.047 DriverManager:28 - initializing Appium driver
+[Android_Pixel 3 INFO ] 2023-11-13 13:26:33.047 CapabilitiesManager:18 - getting capabilities
+[Android_Pixel 3 INFO ] 2023-11-13 13:26:33.047 CapabilitiesManager:34 - appUrl isC:\Users\vcordea\Steward Project\steward-testing\src\test\resources\apps\app-debug.apk
+[Android_Pixel 3 INFO ] 2023-11-13 13:26:39.296 DriverManager:40 - Driver is initialized
+[Android_Pixel 3 INFO ] 2023-11-13 13:26:47.398 ServerManager:20 - starting appium server
+[Android_Pixel 3 INFO ] 2023-11-13 13:26:52.246 ServerManager:29 - Appium server started
+[Android_Pixel 3 INFO ] 2023-11-13 13:26:52.247 DriverManager:28 - initializing Appium driver
+[Android_Pixel 3 INFO ] 2023-11-13 13:26:52.247 CapabilitiesManager:18 - getting capabilities
+[Android_Pixel 3 INFO ] 2023-11-13 13:26:52.247 CapabilitiesManager:34 - appUrl isC:\Users\vcordea\Steward Project\steward-testing\src\test\resources\apps\app-debug.apk
+[Android_Pixel 3 INFO ] 2023-11-13 13:26:58.319 DriverManager:40 - Driver is initialized
+[Android_Pixel 3 INFO ] 2023-11-13 13:27:07.108 ServerManager:20 - starting appium server
+[Android_Pixel 3 INFO ] 2023-11-13 13:27:11.947 ServerManager:29 - Appium server started
+[Android_Pixel 3 INFO ] 2023-11-13 13:27:11.948 DriverManager:28 - initializing Appium driver
+[Android_Pixel 3 INFO ] 2023-11-13 13:27:11.948 CapabilitiesManager:18 - getting capabilities
+[Android_Pixel 3 INFO ] 2023-11-13 13:27:11.948 CapabilitiesManager:34 - appUrl isC:\Users\vcordea\Steward Project\steward-testing\src\test\resources\apps\app-debug.apk
+[Android_Pixel 3 INFO ] 2023-11-13 13:27:17.866 DriverManager:40 - Driver is initialized
+[Android_Pixel 3 INFO ] 2023-11-13 13:27:25.643 ServerManager:20 - starting appium server
+[Android_Pixel 3 INFO ] 2023-11-13 13:27:30.463 ServerManager:29 - Appium server started
+[Android_Pixel 3 INFO ] 2023-11-13 13:27:30.464 DriverManager:28 - initializing Appium driver
+[Android_Pixel 3 INFO ] 2023-11-13 13:27:30.465 CapabilitiesManager:18 - getting capabilities
+[Android_Pixel 3 INFO ] 2023-11-13 13:27:30.465 CapabilitiesManager:34 - appUrl isC:\Users\vcordea\Steward Project\steward-testing\src\test\resources\apps\app-debug.apk
+[Android_Pixel 3 INFO ] 2023-11-13 13:27:36.529 DriverManager:40 - Driver is initialized
